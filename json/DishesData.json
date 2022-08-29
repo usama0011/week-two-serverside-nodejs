@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "dishName": "First Dish",
+    "description": "This is the first Description of the  Dish"
+  },
+  {
+    "id": "2",
+    "dishName": "Second Dish",
+    "description": "This is the Second Description of the  Dish"
+  },
+  {
+    "id": "3",
+    "dishName": "Third Dish",
+    "description": "This is the Third Description of the  Dish"
+  }
+]

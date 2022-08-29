@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "leaderName": "Narindar Modi",
+    "description": "This is the first leader Description"
+  },
+  {
+    "id": "2",
+    "leaderName": "Imran Khan",
+    "description": "This is the Second leader Description"
+  },
+  {
+    "id": "3",
+    "leaderName": "Barak Obama",
+    "description": "This is the Third leader Description"
+  }
+]

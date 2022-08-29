@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "permotionName": "Apple",
+    "description": "This is the first Description of the  permotion"
+  },
+  {
+    "id": "2",
+    "permotionName": "Amazon",
+    "description": "This is the Second Description of the  permotion"
+  },
+  {
+    "id": "3",
+    "permotionName": "Flip Cart",
+    "description": "This is the Third Description of the  permotion"
+  }
+]
